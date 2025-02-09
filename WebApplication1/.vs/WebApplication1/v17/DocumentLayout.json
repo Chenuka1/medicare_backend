@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\services\\cronjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\cronjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\drugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\drugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\appoinmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\appoinmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\models\\med_timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\med_timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\models\\med_patients_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\med_patients_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\models\\med_drugs_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\med_drugs_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\registerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\registerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\controllers\\timeslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\timeslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\models\\med_appoinment_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\med_appoinment_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|d:\\dockyard internships\\despansary management system\\hospitralmanagement\\new_backend_project\\webapplication1\\webapplication1\\timeslotreschedulercronservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7132F0-CE9B-4DEC-9026-37C85B51EEE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\timeslotreschedulercronservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "patientController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\patientController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\patientController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\patientController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\patientController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:46:18.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:25:14.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CronJobService.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Services\\CronJobService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\CronJobService.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Services\\CronJobService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\CronJobService.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:08:49.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T05:01:50.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "materialController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\materialController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\materialController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\materialController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\materialController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:12:27.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "registeruserController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\registeruserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\registeruserController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\registeruserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\registeruserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:11:41.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loginController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\loginController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\loginController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\loginController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\loginController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:24:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MED_PATIENTS_DETAILS.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Models\\MED_PATIENTS_DETAILS.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MED_PATIENTS_DETAILS.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Models\\MED_PATIENTS_DETAILS.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MED_PATIENTS_DETAILS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:07:11.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "passwordController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\passwordController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\passwordController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\passwordController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\passwordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:24:12.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TimeSlotReschedulerCronService.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\TimeSlotReschedulerCronService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\TimeSlotReschedulerCronService.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\TimeSlotReschedulerCronService.cs",
+              "RelativeToolTip": "WebApplication1\\TimeSlotReschedulerCronService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAxwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:42:01.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appoinmentController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\appoinmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\appoinmentController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\appoinmentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\appoinmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:39:09.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAwwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:10:14.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T03:14:58.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "timeslotController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\timeslotController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\timeslotController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\timeslotController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\timeslotController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:10:12.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MED_DRUGS_DETAILS.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Models\\MED_DRUGS_DETAILS.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MED_DRUGS_DETAILS.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Models\\MED_DRUGS_DETAILS.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MED_DRUGS_DETAILS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:16:40.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "treatmentController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\treatmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\treatmentController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\treatmentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\treatmentController.cs",
+              "ViewState": "AQIAAIsCAAAAAAAAAAAYwIICAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:22:10.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "drugController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\drugController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\drugController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\drugController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\drugController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:21:34.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "userController.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\userController.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Controllers\\userController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\userController.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAwwPYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:45:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MED_TIMESLOT.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Models\\MED_TIMESLOT.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MED_TIMESLOT.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Models\\MED_TIMESLOT.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MED_TIMESLOT.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:36:49.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MED_APPOINMENT_DETAILS.cs",
+              "DocumentMoniker": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Models\\MED_APPOINMENT_DETAILS.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MED_APPOINMENT_DETAILS.cs",
+              "ToolTip": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\Models\\MED_APPOINMENT_DETAILS.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MED_APPOINMENT_DETAILS.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:36:20.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
