@@ -164,9 +164,9 @@ namespace WebApplication1.Services
                 }
 
                 // Run every day at midnight
-                await Task.Delay(TimeSpan.FromDays(1), stoppingToken);
+                /* await Task.Delay(TimeSpan.FromDays(1), stoppingToken);*/
 
-                /*    await Task.Delay(TimeSpan.FromMinutes(5), stoppingToken);*/
+                await Task.Delay(TimeSpan.FromMinutes(5), stoppingToken);
 
                 /*  await Task.Delay(TimeSpan.FromSeconds(5), stoppingToken);*/
             }

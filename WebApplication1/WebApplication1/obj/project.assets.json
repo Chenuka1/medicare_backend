@@ -4973,11 +4973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Dockyard internships\\Despansary management system\\medicare_backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Dockyard internships\\Despansary management system\\medicare_backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Dockyard internships\\Despansary management system\\medicare_backend\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

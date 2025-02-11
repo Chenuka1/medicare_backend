@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TbJlVimalsk=",
+  "dgSpecHash": "8slTy4nDM/M=",
   "success": true,
-  "projectFilePath": "D:\\Dockyard internships\\Despansary management system\\HospitralManagement\\new_backend_project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\Dockyard internships\\Despansary management system\\medicare_backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
